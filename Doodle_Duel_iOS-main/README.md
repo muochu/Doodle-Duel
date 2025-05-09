@@ -8,13 +8,6 @@ Each player takes turns to draw a prompt depicting an everyday object and to gue
 Real-time gameplay is supported by a timekeeper function to add a layer of urgency. 
 The game includes features like user authentication, live drawing exchange, and a scoring system to keep the competition engaging and enjoyable.
 
-## Team
-
-- **Aria**: Lead Developer
-- **Angad**: Lead Developer
-- **Joaquim**: Lead Developer
-- **Matthew**: Project Manager
-  
 
 ## Tech Stack
 
@@ -23,7 +16,7 @@ The game includes features like user authentication, live drawing exchange, and 
 - **GameKit**: Used for enabling multiplayer gaming capabilities.
 - **PencilKit**: Provides the tools for creating the drawing environment in the iOS app.
 - **SwiftUI**: Utilized for crafting the user interface components.
-- **Asana**: Task management and Project Management
+
 
 
 ## Contributing
@@ -38,9 +31,7 @@ Interested in contributing? Great! Here's how you can help:
 
 For major changes, please open an issue first to discuss what you would like to change. Please ensure to update tests as appropriate.
 
-## Deployment
 
-A live demo of the application can be accessed [here](https://vccca-my.sharepoint.com/:f:/r/personal/000471438_student_vcc_ca/Documents/Screen%20Recording%20-%20Working%20Share%20Canvas%20Link?csf=1&web=1&e=8tMgS0). 
 
 ---
 
